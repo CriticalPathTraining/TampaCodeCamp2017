@@ -1,0 +1,15 @@
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\HelloPowerBiServiceApi.exe.config
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\HelloPowerBiServiceApi.exe
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\HelloPowerBiServiceApi.pdb
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\bin\Debug\Newtonsoft.Json.xml
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\obj\Debug\HelloPowerBiServiceApi.csprojResolveAssemblyReference.cache
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\obj\Debug\HelloPowerBiServiceApi.exe
+C:\GIT\PowerBiDeveloperSamples\HelloPowerBiServiceApi\HelloPowerBiServiceApi\obj\Debug\HelloPowerBiServiceApi.pdb

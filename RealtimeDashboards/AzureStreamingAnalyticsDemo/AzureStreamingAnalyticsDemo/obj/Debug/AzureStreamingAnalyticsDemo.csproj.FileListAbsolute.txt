@@ -1,0 +1,12 @@
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\AzureStreamingAnalyticsDemo.exe.config
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\AzureStreamingAnalyticsDemo.exe
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\AzureStreamingAnalyticsDemo.pdb
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Microsoft.Azure.EventHubs.xml
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\obj\Debug\AzureStreamingAnalyticsDemo.csprojResolveAssemblyReference.cache
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\obj\Debug\AzureStreamingAnalyticsDemo.exe
+C:\Demo\AzureStreamingAnalyticsDemo\AzureStreamingAnalyticsDemo\obj\Debug\AzureStreamingAnalyticsDemo.pdb
